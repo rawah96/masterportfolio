@@ -5,7 +5,9 @@ import { Link } from 'react-router-dom'
 function Navbar() {
     return (
         <nav className='nav'>
-            <Link to='/masterportfolio'><img src={sig} /></Link>
+            <Link to='/masterportfolio'>
+                <img src={sig} />
+            </Link>
             <ul>
                 <li>
                     <Link to="/education">Education</Link>

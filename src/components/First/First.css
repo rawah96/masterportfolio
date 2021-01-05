@@ -1,28 +1,110 @@
 #one, #two, #three {
     height: 100vh;
-    margin: 0px 20px 0px 20px;
+    /* margin: 0px 20px 0px 20px; */
 }
 
 #one {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: -150px;
+    margin-top: -110px;
+    margin-bottom: 85px;
 }
 
 #left > * {
     padding-bottom: 20px;
-    letter-spacing: 2px;
-    max-width: 400px;
+    letter-spacing: 3px;
+    max-width: 420px;
 }
 
 #left > h1 {
     font-size: 46px;
-    color: #53C1DE;
+    /* color: #53C1DE; */
+    color: rgb(128, 128, 128);
+    font-weight: 400;
 }
 
 #h4 {
     color: gray;
     font-size: 18px;
     font-style: italic;
+    font-weight: 200;
+}
+
+#socials {
+    display: flex;
+    flex-direction: column;
+    display: grid;
+    place-items: center;
+}
+
+a {
+    color: black;
+}
+
+#links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 220px;
+    margin-bottom: 20px;
+}
+
+.MuiSvgIcon-root:hover {
+    transform: scale(1.2) !important;
+    transition: 1s all ease;
+}
+
+.MuiSvgIcon-root {
+    margin-top: 20px;
+    font-size: 50px !important;
+}
+
+#resume {
+    cursor: pointer;
+    background-color: #9FC9A3;
+    color: white;
+    text-decoration: none;
+    padding: 20px 80px;
+    border-radius: 5px;
+}
+
+#resume:hover {
+    color: #9FC9A3;
+    background-color: white;
+    transition: 1s all ease;
+}
+
+/* second section */
+#two {
+    /* margin-top: 110px; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#two > h1 {
+    font-size: 42px;
+    font-weight: 500;
+}
+
+.two {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    background-color: transparent;
+    transition: 1s all ease;
+}
+
+.stack {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 300px;
 }

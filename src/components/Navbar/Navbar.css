@@ -1,18 +1,21 @@
 .nav {
+    position: sticky !important;
+    top: 0 !important;
+    background-color: #E5E5E5 !important;
+    z-index: 1000 !important;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: transparent !important;
+    /* background-color: transparent !important; */
 }
-
+/* 
 .nav > * {
     background-color: transparent !important;
-}
+} */
 
 nav > a > img {
     flex: 0.5;
-    margin-left: 35px;
-    background-color: transparent !important;
+    margin-left: 55px;
 }
 
 ul {
@@ -39,4 +42,9 @@ li:hover {
 
 a:hover {
     color: #53C1DE;
+}
+
+#two > h1 {
+    display: grid;
+    place-items: center;
 }

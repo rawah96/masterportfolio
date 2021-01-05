@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/rawah/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/rawah/static/js/main.37ce1cd2.chunk.js",
-    "main.js.map": "/rawah/static/js/main.37ce1cd2.chunk.js.map",
-    "runtime-main.js": "/rawah/static/js/runtime-main.89d299b4.js",
-    "runtime-main.js.map": "/rawah/static/js/runtime-main.89d299b4.js.map",
-    "static/js/2.bb892b13.chunk.js": "/rawah/static/js/2.bb892b13.chunk.js",
-    "static/js/2.bb892b13.chunk.js.map": "/rawah/static/js/2.bb892b13.chunk.js.map",
-    "static/js/3.7017a921.chunk.js": "/rawah/static/js/3.7017a921.chunk.js",
-    "static/js/3.7017a921.chunk.js.map": "/rawah/static/js/3.7017a921.chunk.js.map",
-    "index.html": "/rawah/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/rawah/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.bb892b13.chunk.js.LICENSE.txt": "/rawah/static/js/2.bb892b13.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rawah/static/media/logo.6ce24c58.svg"
+    "main.css": "/masterportfolio/static/css/main.7f30e912.chunk.css",
+    "main.js": "/masterportfolio/static/js/main.3514e849.chunk.js",
+    "main.js.map": "/masterportfolio/static/js/main.3514e849.chunk.js.map",
+    "runtime-main.js": "/masterportfolio/static/js/runtime-main.1e7c99b4.js",
+    "runtime-main.js.map": "/masterportfolio/static/js/runtime-main.1e7c99b4.js.map",
+    "static/js/2.4ba39ed2.chunk.js": "/masterportfolio/static/js/2.4ba39ed2.chunk.js",
+    "static/js/2.4ba39ed2.chunk.js.map": "/masterportfolio/static/js/2.4ba39ed2.chunk.js.map",
+    "static/js/3.ddc0126c.chunk.js": "/masterportfolio/static/js/3.ddc0126c.chunk.js",
+    "static/js/3.ddc0126c.chunk.js.map": "/masterportfolio/static/js/3.ddc0126c.chunk.js.map",
+    "index.html": "/masterportfolio/index.html",
+    "static/css/main.7f30e912.chunk.css.map": "/masterportfolio/static/css/main.7f30e912.chunk.css.map",
+    "static/js/2.4ba39ed2.chunk.js.LICENSE.txt": "/masterportfolio/static/js/2.4ba39ed2.chunk.js.LICENSE.txt",
+    "static/media/css3.4e67641b.png": "/masterportfolio/static/media/css3.4e67641b.png",
+    "static/media/html5.a577af37.png": "/masterportfolio/static/media/html5.a577af37.png",
+    "static/media/js.2e10b2a2.png": "/masterportfolio/static/media/js.2e10b2a2.png",
+    "static/media/me.77670450.svg": "/masterportfolio/static/media/me.77670450.svg",
+    "static/media/myresume.ef7e8064.pdf": "/masterportfolio/static/media/myresume.ef7e8064.pdf",
+    "static/media/node.8e341cc0.png": "/masterportfolio/static/media/node.8e341cc0.png",
+    "static/media/projects.100263f7.svg": "/masterportfolio/static/media/projects.100263f7.svg",
+    "static/media/react.73ac128a.png": "/masterportfolio/static/media/react.73ac128a.png",
+    "static/media/redux.0e4fb1c8.svg": "/masterportfolio/static/media/redux.0e4fb1c8.svg",
+    "static/media/sig.e5d38d83.svg": "/masterportfolio/static/media/sig.e5d38d83.svg",
+    "static/media/whatido.6cad5476.svg": "/masterportfolio/static/media/whatido.6cad5476.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89d299b4.js",
-    "static/js/2.bb892b13.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.37ce1cd2.chunk.js"
+    "static/js/runtime-main.1e7c99b4.js",
+    "static/js/2.4ba39ed2.chunk.js",
+    "static/css/main.7f30e912.chunk.css",
+    "static/js/main.3514e849.chunk.js"
   ]
 }

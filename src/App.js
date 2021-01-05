@@ -3,6 +3,7 @@ import Roll from 'react-reveal/Zoom';
 import Navbar from './components/Navbar/Navbar';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import First from './components/First/First';
+import Projects from './components/Projects/Projects';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         <Switch>
           <Route exact path="/masterportfolio"><First /></Route>
           <Route path="/education">Education</Route>
-          <Route path="/projects">Projects</Route>
+          <Route path="/projects"><Projects /></Route>
           <Route path="/contact">Contact Me</Route>
         </Switch>
       </Router>

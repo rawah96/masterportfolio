@@ -48,27 +48,30 @@ function First() {
                 </Fade>
                 <div className="two">
                     <Fade left>
-                        {/* change image */}
-                        <img src={whatido} alt="what I do illustration" width="70%" />
+                        <img src={whatido} alt="what I do illustration" width="70%" id="img"/>
                     </Fade>
                     <Fade right>
-                        <div id="right-2">
-                            <h1 >MERN STACK web applications</h1>
+                        <div id="right">
+                            <h1 id="right-h1">Full Stack Development</h1>
+                            <br />
                             <div className="stack">
-                                <img src={react} alt="react" width="150px"/>
-                                <img src={redux} alt="react" width="50px"/>
-                                <img src={js} alt="react" width="50px"/>
-                                <img src={node} alt="react" width="50px"/>
-                                <img src={html5} alt="react" width="50px"/>
-                                <img src={css3} alt="react" width="50px"/>
+                                <img src={react} alt="react" width="85px" id="react"/>
+                                <img src={redux} alt="redux" width="50px"/>
+                                <img src={js} alt="js" width="50px"/>
+                                <img src={node} alt="node" width="50px"/>
+                            </div>
+                            <br />
+                            <div className="stack">
+                                <img src={html5} alt="html" width="50px"/>
+                                <img src={css3} alt="css" width="40px"/>
                                 <img src={npm} alt="react" width="50px"/>
                             </div>
-
+                            {/* bullet points */}
                         </div>
                     </Fade>
                 </div>
             </section>
-            <sectgion id="third">third section</sectgion>
+            <sectgion id="third">Cloud Infra-Architecture</sectgion>
         </div>
     )
 }

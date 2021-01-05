@@ -1,0 +1,42 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: transparent !important;
+}
+
+.nav > * {
+    background-color: transparent !important;
+}
+
+nav > a > img {
+    flex: 0.5;
+    margin-left: 35px;
+    background-color: transparent !important;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex: 0.5;
+}
+
+li  > a {
+    text-decoration: none;
+    border-bottom: none;
+    color: black;
+    background-color: transparent !important;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+li:hover {
+    transform: scale(1.1);
+    transition: 1s all ease;
+}
+
+a:hover {
+    color: #53C1DE;
+}

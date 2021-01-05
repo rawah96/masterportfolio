@@ -48,3 +48,7 @@ a:hover {
     display: grid;
     place-items: center;
 }
+
+a:active {
+    color: #53C1DE;
+}

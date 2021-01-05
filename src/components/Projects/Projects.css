@@ -92,12 +92,15 @@
 .btns > button {
     border: none;
     padding: 15px 30px;
+    border-radius: 5px;
+    outline: none;
 }
 
 .btns > button > a {
     text-decoration: none;
     color: black;
-    font-weight: 500;
+    font-weight: 600;
+    letter-spacing: 1px;
     background-color: transparent !important;
 }
 
@@ -105,7 +108,26 @@
     opacity: 0.75;
 }
 
-#tech {
-    letter-spacing: 1px;
-    font-weight: 600;
+#techs {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+#techs > img {
+    background-color: transparent !important;
+}
+
+#techs > img:hover {
+    transform: none;
+    cursor: initial;
+}
+
+#projects-h4 {
+    display: grid;
+    place-items: center;
+    letter-spacing: 2px;
+    font-weight: 400;
+    max-width: 450px;
 }

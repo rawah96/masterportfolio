@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import First from './components/First/First';
 import Projects from './components/Projects/Projects';
+import Education from './components/Education/Education'
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
           <Navbar/>
         <Switch>
           <Route exact path="/masterportfolio"><First /></Route>
-          <Route path="/education">Education</Route>
+          <Route path="/education"><Education /></Route>
           <Route path="/projects"><Projects /></Route>
           <Route path="/contact">Contact Me</Route>
         </Switch>

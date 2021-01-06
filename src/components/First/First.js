@@ -16,6 +16,15 @@ import node from './node.png'
 import html5 from './html5.png'
 import css3 from './css3.png'
 import npm from './npm.png'
+import cloud from './cloud.svg'
+import heroku from './heroku.png'
+import mongodb from './mongodb.png'
+import aws from './aws.png'
+import firebase from './firebase.png'
+import design from './design.svg'
+import xd from './xd.png'
+import webflow from './webflow.png'
+import figma from './figma.png'
 
 function First() {
     return (
@@ -66,12 +75,68 @@ function First() {
                                 <img src={css3} alt="css" width="40px"/>
                                 <img src={npm} alt="react" width="50px"/>
                             </div>
-                            {/* bullet points */}
+                            <div id="bullet-pnts">
+                                <li id="pnt"> Building/Creating responsive web applications</li>
+                                <br />
+                                <li id="pnt">Developing mobile applications using React Native</li>
+                            </div>
                         </div>
                     </Fade>
                 </div>
             </section>
-            <sectgion id="third">Cloud Infra-Architecture</sectgion>
+            <section id="third">
+            <Fade left>
+                <img src={cloud} alt="cloud" width="60%" />
+            </Fade>
+            <Fade right>
+                <div id="cloud-right">
+                <h1 id="right-h1">Cloud Infra-Architecture</h1>
+                <br />
+                <div className="tools">
+                    <img src={heroku} alt="heroku" width="50px"/>
+                    <img src={mongodb} alt="mongodb" width="50px"/>
+                    <img src={aws} alt="aws" width="50px"/>
+                    <img src={firebase} alt="firebase" width="50px"/>
+                </div>
+                <br/>
+                <div id="bullet-pnts">
+                    <li id="pnt">
+                        Experience deploying, hosting, and maintaining web applications 
+                    </li> <br/>
+                    <li id="pnt">
+                        Experience setting up .... DB
+                    </li>
+                </div>
+                </div>
+            </Fade>
+            </section>
+            <section id="fourth">
+                <Fade left>
+                    <img src={design} alt="design-tools" width="60%" />
+                </Fade>
+                <Fade right>
+                    <div id="design-tools">
+                    <h1 id="h1">UI/UX Design</h1>
+                    <br />
+                    <div className="tools">
+                        <img src={webflow} alt="webflow" width="50px"/>
+                        <img src={xd} alt="xd" width="50px"/>
+                        <img src={figma} alt="figma" width="50px"/>
+                    </div>
+                    <div id="bullet-pnts">
+                        <li id="pnt">
+                            Designing highly attractive user interface for mobile and web applications
+                        </li> <br/>
+                        <li id="pnt">
+                            Customizing logo designs and building logos from scratch
+                        </li> <br/>
+                        <li id="pnt">
+                            Creating the flow of application functionalities to optimize user experience
+                        </li>
+                    </div>
+                    </div>
+                </Fade>
+            </section>
         </div>
     )
 }

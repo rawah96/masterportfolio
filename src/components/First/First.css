@@ -195,5 +195,9 @@ img:hover {
     display: flex;
     flex-direction: column;
     width: 100%;
+}
 
+#two, #third, #fourth {
+    display: flex;
+    align-items: center;
 }

@@ -17,6 +17,9 @@ function App() {
           <Route path="/projects"><Projects /></Route>
           <Route path="/contact">Contact Me</Route>
         </Switch>
+        <div className="madeby">
+                Copyright &copy; 2021 With Love by Rawah!
+        </div>
       </Router>
     </div>
   );

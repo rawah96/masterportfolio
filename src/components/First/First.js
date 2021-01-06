@@ -6,7 +6,7 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import AlternateEmailIcon from '@material-ui/icons/AlternateEmail';
 import InstagramIcon from '@material-ui/icons/Instagram';
-import Pdf from './myresume.pdf'
+import Pdf from './resume.pdf'
 import Fade from 'react-reveal/Fade';
 import whatido from './whatido.svg'
 import react from './react.png'

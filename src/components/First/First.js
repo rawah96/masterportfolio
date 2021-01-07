@@ -29,7 +29,7 @@ import figma from './figma.png'
 function First() {
     return (
         // first thing in the first page
-        <div>
+        <div id="homepage">
             <section id="one">
             <Bounce left>
                 <div id="left">
@@ -51,6 +51,7 @@ function First() {
                 <img src={me} alt="illustration of me" width="50%"/>
             </Bounce>
             </section>
+            
             <section id="two">
                 <Fade top>
                     <h1>What I Do ?</h1>

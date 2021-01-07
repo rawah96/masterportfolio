@@ -2,11 +2,16 @@
     position: sticky !important;
     top: 0 !important;
     background-color: #E5E5E5 !important;
-    z-index: 1000 !important;
+    z-index: 10000 !important;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    height: 60px;
     /* background-color: transparent !important; */
+}
+
+.nav > * {
+    z-index: 10000 !important;
 }
 /* 
 .nav > * {

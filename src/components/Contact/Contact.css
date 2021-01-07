@@ -1,0 +1,28 @@
+.contact {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.contact > div {
+    display: flex;
+}
+
+#contact-img {
+    object-fit: contain;
+    cursor: initial;
+    transform: none;
+}
+
+#contactme {
+    font-size: 42px;
+    display: grid;
+    place-items: center;
+}
+
+.second-contact {
+    margin-top: 80px;
+}

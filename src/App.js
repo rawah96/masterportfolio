@@ -5,6 +5,7 @@ import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import First from './components/First/First';
 import Projects from './components/Projects/Projects';
 import Education from './components/Education/Education'
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
           <Route exact path="/masterportfolio"><First /></Route>
           <Route path="/education"><Education /></Route>
           <Route path="/projects"><Projects /></Route>
-          <Route path="/contact">Contact Me</Route>
+          <Route path="/contact"><Contact /></Route>
         </Switch>
         <div className="madeby">
                 Copyright &copy; 2021 With Love by Rawah!

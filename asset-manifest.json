@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/masterportfolio/static/css/main.88571eb8.chunk.css",
-    "main.js": "/masterportfolio/static/js/main.619e2ea1.chunk.js",
-    "main.js.map": "/masterportfolio/static/js/main.619e2ea1.chunk.js.map",
+    "main.js": "/masterportfolio/static/js/main.38c612ed.chunk.js",
+    "main.js.map": "/masterportfolio/static/js/main.38c612ed.chunk.js.map",
     "runtime-main.js": "/masterportfolio/static/js/runtime-main.81157da0.js",
     "runtime-main.js.map": "/masterportfolio/static/js/runtime-main.81157da0.js.map",
     "static/js/2.f1597a58.chunk.js": "/masterportfolio/static/js/2.f1597a58.chunk.js",
@@ -31,7 +31,7 @@
     "static/media/projects.100263f7.svg": "/masterportfolio/static/media/projects.100263f7.svg",
     "static/media/react.73ac128a.png": "/masterportfolio/static/media/react.73ac128a.png",
     "static/media/redux.0e4fb1c8.svg": "/masterportfolio/static/media/redux.0e4fb1c8.svg",
-    "static/media/resume.36212ca6.pdf": "/masterportfolio/static/media/resume.36212ca6.pdf",
+    "static/media/resume.3a636f7e.pdf": "/masterportfolio/static/media/resume.3a636f7e.pdf",
     "static/media/sig.e5d38d83.svg": "/masterportfolio/static/media/sig.e5d38d83.svg",
     "static/media/webflow.4a715498.png": "/masterportfolio/static/media/webflow.4a715498.png",
     "static/media/whatido.0ee85eaa.svg": "/masterportfolio/static/media/whatido.0ee85eaa.svg",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.81157da0.js",
     "static/js/2.f1597a58.chunk.js",
     "static/css/main.88571eb8.chunk.css",
-    "static/js/main.619e2ea1.chunk.js"
+    "static/js/main.38c612ed.chunk.js"
   ]
 }

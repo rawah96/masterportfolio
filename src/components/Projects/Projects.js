@@ -63,8 +63,8 @@ function Projects() {
                         <img src={tmdb} alt="tmdb" width="35px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/netflix-clone" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/netflix-clone/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
@@ -79,8 +79,8 @@ function Projects() {
                         <img src={tmdb} alt="tmdb" width="35px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/hulu" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/hulu/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
@@ -94,8 +94,8 @@ function Projects() {
                         <img src={material} alt="material" width="55px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/nike-clone" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/nike-clone/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
@@ -135,7 +135,7 @@ function Projects() {
                 </div>
                 <div className="project-box">                     */}
                 <Flip left><div className="row">
-                    <h1>Covid Dashboard</h1>
+                    <h1>Covid Dashboard 0</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
                         <img src={html5} alt="css3" width="50px"/>
@@ -144,12 +144,12 @@ function Projects() {
                         <img src={material} alt="material" width="55px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/dashboard" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/dashboard/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
-                {/* <Flip left><div className="row">
+                <Flip left><div className="row">
                     <h1>Covid Dashboard 1</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
@@ -159,10 +159,10 @@ function Projects() {
                         <img src={material} alt="material" width="55px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/covid-dashboard" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/covid-dashboard/" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip> */}
+                </div></Flip>
 
                 <Flip left><div className="row">
                     <h1>Capstone | EMS</h1>
@@ -175,14 +175,14 @@ function Projects() {
                         <img src={redux} alt="redux" width='40px' />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/ems-project" target="_blank"> GitHub</a></button>
+                        <button><a href="https://helicopter-ems-calculator.herokuapp.com/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
                 <Flip left><div className="row">
                     <h1>Mern Store</h1>
-                    <h4 id="row-h4">The complete portfolio website hosted using Heroku.</h4>
+                    <h4 id="row-h4">The complete MERN store hosted using Heroku.</h4>
                     <div id="techs">
                         <img src={html5} alt="css3" width="50px"/>
                         <img src={react} alt="react" width="100px" />
@@ -192,8 +192,8 @@ function Projects() {
                         <img src={node} alt="node" width="30px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/fullstack-store" target="_blank"> GitHub</a></button>
+                        <button><a href="https://mern-stack-store-project.herokuapp.com/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
                 {/* </div>
@@ -227,8 +227,8 @@ function Projects() {
                         <img src={material} alt="material" width="55px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/portfolio1" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/portfolio1/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 
@@ -242,8 +242,23 @@ function Projects() {
                         <img src={material} alt="material" width="55px" />
                     </div>
                     <div className="btns">
-                        <button><a href="" target="_blank"> GitHub</a></button>
-                        <button><a href="" target="_blank">Demo</a></button>
+                        <button><a href="https://github.com/rawah96/simple-portfolio" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/simple-portfolio/" target="_blank">Demo</a></button>
+                    </div>
+                </div></Flip>
+
+                <Flip left><div className="row">
+                    <h1>PORTFOLIO 2</h1>
+                    <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
+                    <div id="techs">
+                        <img src={html5} alt="css3" width="50px"/>
+                        <img src={react} alt="react" width="100px" />
+                        <img src={css3} alt="css3" width="40px"/>
+                        <img src={material} alt="material" width="55px" />
+                    </div>
+                    <div className="btns">
+                        <button><a href="https://github.com/rawah96/portfolio" target="_blank"> GitHub</a></button>
+                        <button><a href="https://rawah96.github.io/portfolio/" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
 

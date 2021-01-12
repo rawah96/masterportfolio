@@ -41,7 +41,7 @@ function First() {
                     <div id="links">
                         <a href="https://github.com/rawah96" target="_blank"><GitHubIcon /></a>
                         <a href="https://www.linkedin.com/in/rawah-alsinan-917973187/" target="_blank"><LinkedInIcon /></a>
-                        <a href="https://www.instagram.com/raw3a1996/" target="_blank"><InstagramIcon /></a>
+                        <a href="https://www.instagram.com/raw3a_alsinan/" target="_blank"><InstagramIcon /></a>
                     </div>
                     <a id="resume" href={Pdf} without rel="noopener noreferrer" target="_blank">Resume</a>
                 </div>

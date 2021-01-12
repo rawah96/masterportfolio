@@ -57,3 +57,21 @@ a:hover {
 a:active {
     color: #53C1DE;
 }
+
+.menu {
+    display: none !important;
+}
+
+@media only screen and (max-width: 900px) {
+    ul {
+        visibility: hidden;
+    }
+
+    .menu {
+        display: flex !important;
+    }
+}
+
+#sig {
+    cursor: pointer;
+}

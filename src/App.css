@@ -2,6 +2,7 @@
     background-color: #E5E5E5;
     /* background-color: rgba(186, 214, 206, 0.253) !important; */
     font-family: sans-serif;
+    overflow-x: hidden;
 }
 
 .App {

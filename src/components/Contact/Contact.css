@@ -25,4 +25,33 @@
 
 .second-contact {
     margin-top: 80px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-side > h1 {
+    font-weight: 600;
+}
+
+.right-side > * {
+    margin-bottom: 10px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 22px;
+    display: grid;
+    place-items: center;
+    width: 100%;
+}
+
+img:hover {
+    cursor: initial;
+    transform: none;
 }

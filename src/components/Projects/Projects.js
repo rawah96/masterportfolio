@@ -32,7 +32,7 @@ function Projects() {
                 </div>
             </Slide>
             </div>
-            <div className="project-box">
+            <div className="project-box">                    
                 <Flip left>
                 <div className="row">
                     <h1>This Portfolio</h1>
@@ -99,7 +99,7 @@ function Projects() {
                     </div>
                 </div></Flip>
 
-                <Flip left><div className="row">
+                {/* <Flip left><div className="row">
                     <h1>Youtube Clone</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using Firebase.</h4>
                     <div id="techs">
@@ -112,9 +112,9 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
+                </div></Flip> */}
 
-                <Flip left><div className="row">
+                {/* <Flip left><div className="row">
                     <h1>Discord Clone</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
@@ -128,10 +128,14 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
-
+                </div></Flip> */}
+                {/* </div>
+                <div className="show-more">
+                    <button id="show-more"><a href="https://github.com/rawah96?tab=repositories" target="_blank">Show More Frontend</a></button>
+                </div>
+                <div className="project-box">                     */}
                 <Flip left><div className="row">
-                    <h1>Covid Dashboard 0</h1>
+                    <h1>Covid Dashboard</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
                         <img src={html5} alt="css3" width="50px"/>
@@ -145,7 +149,7 @@ function Projects() {
                     </div>
                 </div></Flip>
 
-                <Flip left><div className="row">
+                {/* <Flip left><div className="row">
                     <h1>Covid Dashboard 1</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
@@ -158,7 +162,7 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
+                </div></Flip> */}
 
                 <Flip left><div className="row">
                     <h1>Capstone | EMS</h1>
@@ -192,7 +196,11 @@ function Projects() {
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
                 </div></Flip>
-
+                {/* </div>
+                <div className="show-more">
+                    <button id="show-more"><a href="https://github.com/rawah96?tab=repositories" target="_blank">Show More Full-stack</a></button>
+                </div>
+                <div className="project-box">                    
                 <Flip left><div className="row">
                     <h1>PORTFOLIO 0</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
@@ -206,7 +214,7 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
+                </div></Flip> */}
 
 
                 <Flip left><div className="row">
@@ -239,7 +247,7 @@ function Projects() {
                     </div>
                 </div></Flip>
 
-                <Flip left><div className="row">
+                {/* <Flip left><div className="row">
                     <h1>Facebook Clone</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using Firebase.</h4>
                     <div id="techs">
@@ -252,9 +260,9 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
+                </div></Flip> */}
 
-                <Flip left><div className="row">
+                {/* <Flip left><div className="row">
                     <h1>Linkedin Clone</h1>
                     <h4 id="row-h4">The complete portfolio website hosted using github pages (gh-pages).</h4>
                     <div id="techs">
@@ -284,7 +292,10 @@ function Projects() {
                         <button><a href="" target="_blank"> GitHub</a></button>
                         <button><a href="" target="_blank">Demo</a></button>
                     </div>
-                </div></Flip>
+                </div></Flip> */}
+            </div>
+            <div className="show-more">
+                <button id="show-more"><a href="https://github.com/rawah96?tab=repositories" target="_blank">Show More Projects</a></button>
             </div>
         </div>
     )

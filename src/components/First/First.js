@@ -54,9 +54,9 @@ function First() {
             
             <section id="two">
                 <Fade top>
-                    <h1>What I Do ?</h1>
+                    <h1 id= "two">What I Do ?</h1>
                 </Fade>
-                <div className="two">
+                <div className="inner-two">
                     <Fade left>
                         <img src={whatido} alt="what I do illustration" width="70%" id="img"/>
                     </Fade>
@@ -80,6 +80,10 @@ function First() {
                                 <li id="pnt"> Building/Creating responsive web applications</li>
                                 <br />
                                 <li id="pnt">Developing mobile applications using React Native</li>
+                                <br />
+                                <li id="pnt"></li>
+                                <br />
+                                <li id="pnt"></li>
                             </div>
                         </div>
                     </Fade>
@@ -87,7 +91,7 @@ function First() {
             </section>
             <section id="third">
             <Fade left>
-                <img src={cloud} alt="cloud" width="60%" />
+                <img src={cloud} alt="cloud" width="50%" />
             </Fade>
             <Fade right>
                 <div id="cloud-right">

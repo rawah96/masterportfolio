@@ -81,9 +81,9 @@ function First() {
                                 <br />
                                 <li id="pnt">Developing mobile applications using React Native</li>
                                 <br />
-                                <li id="pnt"></li>
+                                {/* <li id="pnt"></li>
                                 <br />
-                                <li id="pnt"></li>
+                                <li id="pnt"></li> */}
                             </div>
                         </div>
                     </Fade>
@@ -108,9 +108,9 @@ function First() {
                     <li id="pnt">
                         Experience deploying, hosting, and maintaining web applications 
                     </li> <br/>
-                    <li id="pnt">
+                    {/* <li id="pnt">
                         Experience setting up .... DB
-                    </li>
+                    </li> */}
                 </div>
                 </div>
             </Fade>
